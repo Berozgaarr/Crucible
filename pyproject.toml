@@ -1,0 +1,60 @@
+[project]
+name = "crucible"
+version = "0.1.0"
+description = "Deterministic zero-LLM smart shortlisting engine"
+readme = "PROJECT_HANDOVER.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "Priyanshu Roy", email = "62667551+roypriyanshu02@users.noreply.github.com" },
+]
+dependencies = [
+    "fastapi>=0.110.0",
+    "uvicorn>=0.28.0",
+    "jinja2>=3.1.3",
+    "python-multipart>=0.0.9",
+    "pdfplumber>=0.10.4",
+    "sentence-transformers>=2.5.1",
+    "scikit-learn>=1.4.1",
+    "pandas>=2.2.1",
+    "numpy>=1.26.4",
+    "scipy>=1.12.0",
+]
+
+[project.optional-dependencies]
+ocr = [
+    "pytesseract>=0.3.10",
+    "pdf2image>=1.17.0",
+]
+fallback = [
+    "streamlit>=1.32.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0.0",
+    "httpx>=0.27.0",
+    "pytest-asyncio>=0.23.0",
+    "ruff>=0.4.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["crucible"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+pythonpath = ["."]
+addopts = "-v --tb=short"
+
