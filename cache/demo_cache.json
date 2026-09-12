@@ -1,0 +1,1241 @@
+{
+  "jd": {
+    "id": "fullstack_junior",
+    "title": "Junior Full Stack Developer Intern",
+    "company": "TechNova Solutions",
+    "min_experience_years": 1.0,
+    "required_skills": [
+      "Python",
+      "FastAPI",
+      "React",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ],
+    "nice_to_have_skills": [
+      "Kubernetes",
+      "AWS",
+      "CI/CD",
+      "TypeScript"
+    ],
+    "required_education": "bachelor",
+    "required_certifications": [],
+    "target_location": "Remote",
+    "required_work_auth": "any"
+  },
+  "candidates": [
+    {
+      "candidate_id": "cand_43",
+      "name": "Karan Verma",
+      "rank": 1,
+      "keyword_score": 0.8583,
+      "semantic_raw": 0.5662,
+      "semantic_norm": 0.9206,
+      "experience_score": 1.2,
+      "final_score": 0.9486,
+      "experience_years": 3.0,
+      "matched_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python"
+      ],
+      "missing_skills": [
+        "React"
+      ],
+      "evidence": "Karan Verma Python Developer Gurugram, India | +91 99887 76655 | karan.verma.py@gmail.com | linkedin.com/in/karanverma-py PROFESSIONAL SUMMARY Backend-focused Python Developer with 3+ years of experience designing scalable APIs and automation scripts for data-heavy applications. SKILLS \u2022 Python (Django, Flask, FastAPI) \u2022 REST API design \u2022 PostgreSQL, Redis \u2022 Celery, RabbitMQ for async tasks \u2022 Docker, AWS (EC2, S3, Lambda) \u2022 Unit testing with PyTest \u2022 Pandas, NumPy for data processing \u2022 Git, Linux shell scripting WORK EXPERIENCE Python Developer \u2014 Datasphere Systems Feb 2022 - Present \u2022 Built FastAPI microservices handling 200K+ requests/day for an internal billing system \u2022 Designed asynchronous task pipelines using Celery and RabbitMQ, reducing job processing time by 50% \u2022 Wrote automated test suites achieving 85% code coverage, reducing production bugs by 30% \u2022 Containerized services with Docker and deployed to AWS ECS Software Engineer (Python) \u2014 FlowTech Solutions Jan 2020 - Jan 2022 \u2022 Developed internal automation scripts saving the operations team 15+ hours per week \u2022 Built and maintained REST APIs for a Django-based inventory management system PROJECTS Automated Invoice Processor Python script using OCR and regex parsing to extract structured data from PDF invoices and load into a database Job Queue Dashboard Built a Flask dashboard for monitoring Celery task queues with real-time status updates EDUCATION B.Tech, Information Technology \u2014 Delhi Technological University 2016 - 2020 CERTIFICATIONS \u2022 Python Institute - PCEP Certification \u2022 AWS Certified Developer - Associate.",
+      "narrative": "Karan Verma is a strong match on Docker, FastAPI, Git, demonstrated through: \"Karan Verma Python Developer Gurugram, India | +91 99887 76655 | karan.verma.py@gmail.com | linkedin.com/in/karanverma-py PROFESSIONAL SUMMARY...\". The primary gap is React."
+    },
+    {
+      "candidate_id": "cand_53",
+      "name": "Aditya Kulkarni",
+      "rank": 2,
+      "keyword_score": 0.7167,
+      "semantic_raw": 0.6087,
+      "semantic_norm": 1.0,
+      "experience_score": 1.2,
+      "final_score": 0.9308,
+      "experience_years": 4.0,
+      "matched_skills": [
+        "Docker",
+        "Git",
+        "PostgreSQL",
+        "React"
+      ],
+      "missing_skills": [
+        "FastAPI",
+        "Python"
+      ],
+      "evidence": "Aditya Kulkarni Full Stack Web Developer Pune, India | +91 90909 12121 | aditya.kulkarni.dev@gmail.com | linkedin.com/in/aditya-kulkarni PROFESSIONAL SUMMARY Full Stack Developer with 4 years of experience building responsive web applications using the MERN stack, with a focus on performance and accessibility. SKILLS \u2022 JavaScript (ES6+), TypeScript \u2022 React.js, Next.js, Redux \u2022 Node.js, Express.js \u2022 MongoDB, PostgreSQL \u2022 REST & GraphQL APIs \u2022 HTML5, CSS3, Tailwind CSS \u2022 Git, Docker, CI/CD \u2022 Jest, Cypress (testing) WORK EXPERIENCE Full Stack Developer \u2014 Webcrafters Studio Mar 2022 - Present \u2022 Built and shipped a SaaS dashboard used by 5,000+ monthly active users using React and Node.js \u2022 Migrated legacy jQuery codebase to React, improving page load speed by 40% \u2022 Designed REST APIs serving 1M+ requests/month with 99.9% uptime \u2022 Implemented CI/CD pipelines using GitHub Actions, cutting deployment time from 30 to 5 minutes Frontend Developer \u2014 Brightlane Software Jul 2020 - Feb 2022 \u2022 Developed reusable component libraries reducing UI development time by 25% \u2022 Built responsive layouts ensuring cross-browser and mobile compatibility \u2022 Worked closely with designers to convert Figma mockups into pixel-perfect UI PROJECTS TaskFlow - Project Management App Built a Trello-like Kanban app with drag-and-drop boards using React, Node.js and Socket.io for real-time updates Recipe Finder A responsive web app fetching recipes via public APIs with search and filter functionality EDUCATION B.Tech, Computer Science \u2014 COEP Pune 2016 - 2020 CERTIFICATIONS \u2022 Meta Front-End Developer Professional Certificate \u2022 freeCodeCamp - Full Stack Development.",
+      "narrative": "Aditya Kulkarni is a strong match on Docker, Git, PostgreSQL, demonstrated through: \"Aditya Kulkarni Full Stack Web Developer Pune, India | +91 90909 12121 | aditya.kulkarni.dev@gmail.com | linkedin.com/in/aditya-kulkarni PROFESSIONAL...\". The primary gap is FastAPI, Python."
+    },
+    {
+      "candidate_id": "cand_14",
+      "name": "Ananya Reddy",
+      "rank": 3,
+      "keyword_score": 0.8333,
+      "semantic_raw": 0.5431,
+      "semantic_norm": 0.8775,
+      "experience_score": 1.0,
+      "final_score": 0.8927,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python"
+      ],
+      "missing_skills": [
+        "React"
+      ],
+      "evidence": "ANANYA REDDY Aspiring Python Developer +91 98123 45606 | ananya.reddy2024@gmail.com | linkedin.com/in/ananyareddy-dev | github.com/ananyareddy-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Motivated B.Tech Computer Science student with a strong command of Python for backend development, scripting, and automation. Experienced in building APIs, data pipelines, and scalable backend services.",
+      "narrative": "Ananya Reddy is a strong match on Docker, FastAPI, Git, demonstrated through: \"ANANYA REDDY Aspiring Python Developer +91 98123 45606 | ananya.reddy2024@gmail.com | linkedin.com/in/ananyareddy-dev | github.com/ananyareddy-dev | Pune,...\". The primary gap is React."
+    },
+    {
+      "candidate_id": "cand_13",
+      "name": "Karan Malhotra",
+      "rank": 4,
+      "keyword_score": 0.8333,
+      "semantic_raw": 0.5225,
+      "semantic_norm": 0.839,
+      "experience_score": 1.0,
+      "final_score": 0.8773,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python"
+      ],
+      "missing_skills": [
+        "React"
+      ],
+      "evidence": "KARAN MALHOTRA Aspiring Python Developer +91 98123 45605 | karan.malhotra2024@gmail.com | linkedin.com/in/karanmalhotra-dev | github.com/karanmalhotra- dev | Pune, Maharashtra PROFESSIONAL SUMMARY Motivated B.Tech Computer Science student with a strong command of Python for backend development, scripting, and automation. Experienced in building APIs, data pipelines, and scalable backend services.",
+      "narrative": "Karan Malhotra is a strong match on Docker, FastAPI, Git, demonstrated through: \"KARAN MALHOTRA Aspiring Python Developer +91 98123 45605 | karan.malhotra2024@gmail.com | linkedin.com/in/karanmalhotra-dev | github.com/karanmalhotra- dev...\". The primary gap is React."
+    },
+    {
+      "candidate_id": "cand_44",
+      "name": "Sneha Reddy",
+      "rank": 5,
+      "keyword_score": 0.6917,
+      "semantic_raw": 0.5138,
+      "semantic_norm": 0.8227,
+      "experience_score": 1.0,
+      "final_score": 0.8212,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Docker",
+        "Git",
+        "PostgreSQL",
+        "Python"
+      ],
+      "missing_skills": [
+        "FastAPI",
+        "React"
+      ],
+      "evidence": "Sneha Reddy Python Backend Developer Hyderabad, India | +91 87654 32109 | sneha.reddy.dev@gmail.com | linkedin.com/in/snehareddy-dev PROFESSIONAL SUMMARY Python Developer experienced in building data pipelines and backend services for analytics-driven products. SKILLS \u2022 Python, Django REST Framework \u2022 SQL (PostgreSQL, MySQL) \u2022 Pandas, NumPy, Matplotlib \u2022 API integration & webhooks \u2022 Docker & basic Kubernetes \u2022 Unit testing (unittest, PyTest) \u2022 Git, Jira, Agile workflows WORK EXPERIENCE Backend Developer \u2014 Insight Analytics Pvt Ltd Jun 2021 - Present \u2022 Built and maintained Django REST APIs powering a B2B analytics dashboard used by 200+ companies \u2022 Optimized SQL queries reducing average dashboard load time from 4s to 1.2s \u2022 Integrated third-party payment and CRM APIs (Stripe, HubSpot) into the core platform Software Engineer Trainee \u2014 ByteWorks Technologies Jul 2020 - May 2021 \u2022 Wrote ETL scripts in Python to clean and load data from CSV/Excel sources into PostgreSQL \u2022 Assisted in writing unit tests, improving test coverage from 40% to 70% PROJECTS Expense Tracker API Built a Django REST API with JWT authentication for a personal finance tracking application Data Pipeline Automation Created scheduled Python scripts using cron and Airflow to automate daily report generation EDUCATION B.E, Computer Science \u2014 Osmania University 2017 - 2021 CERTIFICATIONS \u2022 Coursera - Python for Everybody Specialization \u2022 HackerRank - Python (Gold Badge).",
+      "narrative": "Sneha Reddy is a strong match on Docker, Git, PostgreSQL, demonstrated through: \"Sneha Reddy Python Backend Developer Hyderabad, India | +91 87654 32109 | sneha.reddy.dev@gmail.com | linkedin.com/in/snehareddy-dev PROFESSIONAL SUMMARY...\". The primary gap is FastAPI, React."
+    },
+    {
+      "candidate_id": "cand_47",
+      "name": "Arjun Desai",
+      "rank": 6,
+      "keyword_score": 0.3833,
+      "semantic_raw": 0.5226,
+      "semantic_norm": 0.8392,
+      "experience_score": 1.2,
+      "final_score": 0.7498,
+      "experience_years": 4.0,
+      "matched_skills": [
+        "Docker",
+        "Python"
+      ],
+      "missing_skills": [
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "React"
+      ],
+      "evidence": "Arjun Desai Software Development Engineer Bengaluru, India | +91 96789 01234 | arjun.desai.sde@gmail.com | linkedin.com/in/arjundesai-sde PROFESSIONAL SUMMARY Software Development Engineer with 4 years of experience designing and scaling distributed backend systems for high-traffic products. SKILLS \u2022 Java, C++, Python \u2022 Data Structures & Algorithms \u2022 System design (distributed systems) \u2022 Microservices architecture \u2022 SQL & NoSQL databases (MySQL, Cassandra) \u2022 Kafka, RabbitMQ (messaging) \u2022 AWS, Docker, Kubernetes \u2022 Object-oriented design principles WORK EXPERIENCE Software Development Engineer II \u2014 Skyline Technologies Jul 2022 - Present \u2022 Designed and implemented a notification microservice handling 5M+ events/day with 99.95% uptime \u2022 Reduced API latency by 45% by introducing caching layers using Redis \u2022 Led migration of a monolithic order-processing service into 4 independently deployable microservices \u2022 Mentored 2 junior engineers and conducted code reviews to maintain engineering standards Software Development Engineer I \u2014 Orbit Software Labs Jun 2020 - Jun 2022 \u2022 Built core features for a logistics tracking platform used by 10,000+ drivers \u2022 Optimized database queries reducing report generation time from 12s to 2s \u2022 Participated in on-call rotation, resolving production incidents within SLA PROJECTS Distributed URL Shortener Designed a horizontally scalable URL shortening service with consistent hashing and Redis caching Real-time Chat System Built a WebSocket-based chat backend supporting group messaging and message persistence EDUCATION B.Tech, Computer Science \u2014 IIIT Hyderabad 2016 - 2020 CERTIFICATIONS \u2022 AWS Certified Solutions Architect - Associate \u2022 LeetCode - 500+ problems solved.",
+      "narrative": "Arjun Desai is a strong match on Docker, Python, demonstrated through: \"Arjun Desai Software Development Engineer Bengaluru, India | +91 96789 01234 | arjun.desai.sde@gmail.com | linkedin.com/in/arjundesai-sde PROFESSIONAL...\". The primary gap is FastAPI, Git, PostgreSQL, React."
+    },
+    {
+      "candidate_id": "cand_24",
+      "name": "Rohan Mehta",
+      "rank": 7,
+      "keyword_score": 0.3833,
+      "semantic_raw": 0.4772,
+      "semantic_norm": 0.7543,
+      "experience_score": 1.2,
+      "final_score": 0.7159,
+      "experience_years": 3.0,
+      "matched_skills": [
+        "Docker",
+        "Python"
+      ],
+      "missing_skills": [
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "React"
+      ],
+      "evidence": "Rohan Mehta AI Developer Bengaluru, India | +91 98765 11223 | rohan.mehta.dev@gmail.com | linkedin.com/in/rohanmehta-ai PROFESSIONAL SUMMARY AI Developer with 3 years building production ML pipelines and LLM-based applications. Skilled in Python, PyTorch, and deploying models at scale.",
+      "narrative": "Rohan Mehta is a strong match on Docker, Python, demonstrated through: \"Rohan Mehta AI Developer Bengaluru, India | +91 98765 11223 | rohan.mehta.dev@gmail.com | linkedin.com/in/rohanmehta-ai PROFESSIONAL SUMMARY AI Developer...\". The primary gap is FastAPI, Git, PostgreSQL, React."
+    },
+    {
+      "candidate_id": "cand_15",
+      "name": "Aditya Joshi",
+      "rank": 8,
+      "keyword_score": 0.525,
+      "semantic_raw": 0.4288,
+      "semantic_norm": 0.6639,
+      "experience_score": 1.0,
+      "final_score": 0.6993,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Docker",
+        "Git",
+        "Python"
+      ],
+      "missing_skills": [
+        "FastAPI",
+        "PostgreSQL",
+        "React"
+      ],
+      "evidence": "ADITYA JOSHI Aspiring SDE +91 98123 45609 | aditya.joshi2024@gmail.com | linkedin.com/in/adityajoshi-dev | github.com/adityajoshi-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Motivated B.Tech Computer Science student with strong fundamentals in data structures, algorithms, and system design. Experienced in building scalable backend systems and solving complex engineering problems.",
+      "narrative": "Aditya Joshi is a strong match on Docker, Git, Python, demonstrated through: \"ADITYA JOSHI Aspiring SDE +91 98123 45609 | aditya.joshi2024@gmail.com | linkedin.com/in/adityajoshi-dev | github.com/adityajoshi-dev | Pune, Maharashtra...\". The primary gap is FastAPI, PostgreSQL, React."
+    },
+    {
+      "candidate_id": "cand_02",
+      "name": "Kavya Menon",
+      "rank": 9,
+      "keyword_score": 0.5,
+      "semantic_raw": 0.4357,
+      "semantic_norm": 0.6768,
+      "experience_score": 1.0,
+      "final_score": 0.6957,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Git",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "evidence": "KAVYA MENON Aspiring App Developer +91 98123 45612 | kavya.menon2024@gmail.com | linkedin.com/in/kavyamenon-dev | github.com/kavyamenon-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Motivated B.Tech Computer Science student passionate about mobile application development. Experienced in building cross-platform apps using Flutter and React Native with clean, maintainable architecture.",
+      "narrative": "Kavya Menon is a strong match on Git, Python, React, demonstrated through: \"KAVYA MENON Aspiring App Developer +91 98123 45612 | kavya.menon2024@gmail.com | linkedin.com/in/kavyamenon-dev | github.com/kavyamenon-dev | Pune,...\". The primary gap is Docker, FastAPI, PostgreSQL."
+    },
+    {
+      "candidate_id": "cand_16",
+      "name": "Meera Pillai",
+      "rank": 10,
+      "keyword_score": 0.525,
+      "semantic_raw": 0.4126,
+      "semantic_norm": 0.6337,
+      "experience_score": 1.0,
+      "final_score": 0.6872,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Docker",
+        "Git",
+        "Python"
+      ],
+      "missing_skills": [
+        "FastAPI",
+        "PostgreSQL",
+        "React"
+      ],
+      "evidence": "MEERA PILLAI Aspiring SDE +91 98123 45610 | meera.pillai2024@gmail.com | linkedin.com/in/meerapillai-dev | github.com/meerapillai-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Motivated B.Tech Computer Science student with strong fundamentals in data structures, algorithms, and system design. Experienced in building scalable backend systems and solving complex engineering problems.",
+      "narrative": "Meera Pillai is a strong match on Docker, Git, Python, demonstrated through: \"MEERA PILLAI Aspiring SDE +91 98123 45610 | meera.pillai2024@gmail.com | linkedin.com/in/meerapillai-dev | github.com/meerapillai-dev | Pune, Maharashtra...\". The primary gap is FastAPI, PostgreSQL, React."
+    },
+    {
+      "candidate_id": "cand_01",
+      "name": "Siddharth Rao",
+      "rank": 11,
+      "keyword_score": 0.5,
+      "semantic_raw": 0.4075,
+      "semantic_norm": 0.6241,
+      "experience_score": 1.0,
+      "final_score": 0.6746,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Git",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "evidence": "SIDDHARTH RAO Aspiring App Developer +91 98123 45611 | siddharth.rao2024@gmail.com | linkedin.com/in/siddharthrao-dev | github.com/siddharthrao-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Motivated B.Tech Computer Science student passionate about mobile application development. Experienced in building cross-platform apps using Flutter and React Native with clean, maintainable architecture.",
+      "narrative": "Siddharth Rao is a strong match on Git, Python, React, demonstrated through: \"SIDDHARTH RAO Aspiring App Developer +91 98123 45611 | siddharth.rao2024@gmail.com | linkedin.com/in/siddharthrao-dev | github.com/siddharthrao-dev | Pune,...\". The primary gap is Docker, FastAPI, PostgreSQL."
+    },
+    {
+      "candidate_id": "cand_48",
+      "name": "Ishaan Kapoor",
+      "rank": 12,
+      "keyword_score": 0.3583,
+      "semantic_raw": 0.4595,
+      "semantic_norm": 0.7213,
+      "experience_score": 1.0,
+      "final_score": 0.6639,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Git",
+        "PostgreSQL"
+      ],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Python",
+        "React"
+      ],
+      "evidence": "Ishaan Kapoor Software Engineer Gurugram, India | +91 93456 78901 | ishaan.kapoor.sde@gmail.com | linkedin.com/in/ishaankapoor PROFESSIONAL SUMMARY Software Engineer with strong fundamentals in algorithms and backend systems, experienced across the full software development lifecycle. SKILLS \u2022 C++, Java, Go \u2022 Data Structures & Algorithms \u2022 RESTful API development \u2022 Multithreading & concurrency \u2022 SQL (PostgreSQL), Redis \u2022 Git, Jenkins, CI/CD pipelines \u2022 Agile/Scrum methodology \u2022 Unit & integration testing WORK EXPERIENCE Software Engineer \u2014 Vertex Cloud Solutions May 2021 - Present \u2022 Developed core payment-reconciliation services processing 1M+ transactions monthly with zero data loss \u2022 Improved system throughput by 30% through query optimization and connection pooling \u2022 Built internal tooling for log analysis, cutting average debugging time by 25% \u2022 Collaborated with cross-functional teams using Agile/Scrum to deliver features on 2-week sprints Software Engineer Intern \u2014 NextGen Systems Jan 2021 - Apr 2021 \u2022 Implemented unit tests for legacy modules, improving test coverage from 30% to 65% \u2022 Fixed 25+ bugs reported by QA during pre-release testing cycles PROJECTS Inventory Management System Built a Java-based inventory system with multi-threaded order processing and PostgreSQL backend Competitive Programming Portfolio Solved 400+ algorithmic problems on LeetCode and Codeforces, reaching Codeforces Specialist rank EDUCATION B.Tech, Computer Science \u2014 NIT Surathkal 2017 - 2021 CERTIFICATIONS \u2022 Codeforces Specialist (Rating 1500+) \u2022 Google - Foundations of Cloud Computing.",
+      "narrative": "Ishaan Kapoor is a strong match on Git, PostgreSQL, demonstrated through: \"Ishaan Kapoor Software Engineer Gurugram, India | +91 93456 78901 | ishaan.kapoor.sde@gmail.com | linkedin.com/in/ishaankapoor PROFESSIONAL SUMMARY Software...\". The primary gap is Docker, FastAPI, Python, React."
+    },
+    {
+      "candidate_id": "cand_23",
+      "name": "Ananya Subramanian",
+      "rank": 13,
+      "keyword_score": 0.3583,
+      "semantic_raw": 0.3844,
+      "semantic_norm": 0.581,
+      "experience_score": 1.0,
+      "final_score": 0.6078,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Git",
+        "Python"
+      ],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "PostgreSQL",
+        "React"
+      ],
+      "evidence": "Ananya Subramanian AI/ML Developer Chennai, India | +91 91234 56780 | ananya.subramanian@outlook.com | linkedin.com/in/ananya-subramanian PROFESSIONAL SUMMARY Detail-oriented AI Developer focused on computer vision and conversational AI systems, with a strong foundation in applied mathematics. SKILLS \u2022 Python, NumPy, OpenCV \u2022 Convolutional Neural Networks (CNNs) \u2022 TensorFlow, Keras \u2022 Speech-to-text & NLP pipelines \u2022 Model optimization (ONNX, quantization) \u2022 Git, CI/CD for ML (GitHub Actions) \u2022 Cloud ML (Azure ML, GCP Vertex AI) WORK EXPERIENCE AI Engineer \u2014 VisionEdge Labs Jan 2022 - Present \u2022 Designed a defect-detection CV model for manufacturing line cameras, reducing false negatives by 22% \u2022 Optimized inference latency from 400ms to 90ms using model quantization and ONNX runtime \u2022 Built a voice-assistant module integrating Whisper STT with a custom NLU layer Data Science Intern \u2014 Quantica Insights May 2021 - Dec 2021 \u2022 Built dashboards summarizing model performance metrics for stakeholders \u2022 Cleaned and labeled image datasets of 50K+ samples for training pipelines PROJECTS Smart Attendance System Face-recognition based attendance system using OpenCV and a custom-trained CNN, deployed on Raspberry Pi Chat Assistant for Healthcare FAQs Built an intent-classification chatbot using spaCy and Rasa for a clinic's patient queries EDUCATION B.E, Information Technology \u2014 Anna University 2018 - 2022 CERTIFICATIONS \u2022 Coursera - Deep Learning Specialization (Andrew Ng) \u2022 NPTEL - Computer Vision.",
+      "narrative": "Ananya Subramanian is a strong match on Git, Python, demonstrated through: \"Ananya Subramanian AI/ML Developer Chennai, India | +91 91234 56780 | ananya.subramanian@outlook.com | linkedin.com/in/ananya-subramanian PROFESSIONAL...\". The primary gap is Docker, FastAPI, PostgreSQL, React."
+    },
+    {
+      "candidate_id": "cand_06",
+      "name": "Priya Kulkarni",
+      "rank": 14,
+      "keyword_score": 0.3583,
+      "semantic_raw": 0.3692,
+      "semantic_norm": 0.5526,
+      "experience_score": 1.0,
+      "final_score": 0.5964,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Git",
+        "Python"
+      ],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "PostgreSQL",
+        "React"
+      ],
+      "evidence": "PRIYA KULKARNI Aspiring Cyber Security +91 98123 45608 | priya.kulkarni2024@gmail.com | linkedin.com/in/priyakulkarni-dev | github.com/priyakulkarni-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Motivated B.Tech Computer Science student with a strong interest in network security, ethical hacking, and vulnerability assessment. Hands-on experience with penetration testing tools and secure coding practices.",
+      "narrative": "Priya Kulkarni is a strong match on Git, Python, demonstrated through: \"PRIYA KULKARNI Aspiring Cyber Security +91 98123 45608 | priya.kulkarni2024@gmail.com | linkedin.com/in/priyakulkarni-dev | github.com/priyakulkarni-dev |...\". The primary gap is Docker, FastAPI, PostgreSQL, React."
+    },
+    {
+      "candidate_id": "cand_08",
+      "name": "Ishita Gupta",
+      "rank": 15,
+      "keyword_score": 0.3333,
+      "semantic_raw": 0.3631,
+      "semantic_norm": 0.5412,
+      "experience_score": 1.0,
+      "final_score": 0.5831,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Git",
+        "Python"
+      ],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "PostgreSQL",
+        "React"
+      ],
+      "evidence": "ISHITA GUPTA Aspiring Data Scientist +91 98123 45614 | ishita.gupta2024@gmail.com | linkedin.com/in/ishitagupta-dev | github.com/ishitagupta-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Motivated B.Tech Computer Science student with a strong analytical foundation in statistics, machine learning, and data visualization. Experienced in extracting actionable insights from complex datasets.",
+      "narrative": "Ishita Gupta is a strong match on Git, Python, demonstrated through: \"ISHITA GUPTA Aspiring Data Scientist +91 98123 45614 | ishita.gupta2024@gmail.com | linkedin.com/in/ishitagupta-dev | github.com/ishitagupta-dev | Pune,...\". The primary gap is Docker, FastAPI, PostgreSQL, React."
+    },
+    {
+      "candidate_id": "cand_11",
+      "name": "Yash Choudhary",
+      "rank": 16,
+      "keyword_score": 0.1667,
+      "semantic_raw": 0.4334,
+      "semantic_norm": 0.6725,
+      "experience_score": 1.0,
+      "final_score": 0.5773,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "React"
+      ],
+      "evidence": "YASH CHOUDHARY Aspiring IT Support +91 98123 45625 | yash.choudhary2024@gmail.com | linkedin.com/in/yashchoudhary-dev | github.com/yashchoudhary- dev | Pune, Maharashtra PROFESSIONAL SUMMARY Reliable and technically-minded B.Tech student with hands-on experience troubleshooting hardware, software, and network issues. Strong understanding of system administration fundamentals and customer-facing support.",
+      "narrative": "Yash Choudhary is a strong match on Python, demonstrated through: \"YASH CHOUDHARY Aspiring IT Support +91 98123 45625 | yash.choudhary2024@gmail.com | linkedin.com/in/yashchoudhary-dev | github.com/yashchoudhary- dev |...\". The primary gap is Docker, FastAPI, Git, PostgreSQL, React."
+    },
+    {
+      "candidate_id": "cand_29",
+      "name": "Meera Iyer",
+      "rank": 17,
+      "keyword_score": 0.2167,
+      "semantic_raw": 0.3758,
+      "semantic_norm": 0.5649,
+      "experience_score": 1.0,
+      "final_score": 0.5518,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "React"
+      ],
+      "evidence": "Meera Iyer Information Security Engineer Mumbai, India | +91 90123 45678 | meera.iyer.infosec@gmail.com | linkedin.com/in/meera-iyer-sec PROFESSIONAL SUMMARY Information Security Engineer focused on application security and secure development practices across cloud- hosted products. SKILLS \u2022 Application security (OWASP Top 10) \u2022 Static & dynamic code analysis (SAST/DAST) \u2022 Cloud security (AWS IAM, Security Groups) \u2022 Burp Suite, OWASP ZAP \u2022 Risk assessment & compliance audits \u2022 Secure SDLC implementation \u2022 Python scripting for automation \u2022 Identity & access management (IAM) WORK EXPERIENCE Information Security Engineer \u2014 FinTrust Technologies Jan 2022 - Present \u2022 Performed security code reviews for 30+ releases, identifying and resolving critical vulnerabilities pre- deployment \u2022 Implemented automated SAST scanning in the CI/CD pipeline, catching issues 60% earlier in development \u2022 Led quarterly access reviews for AWS IAM roles across 50+ accounts, tightening least-privilege policies \u2022 Coordinated annual penetration testing engagements with external vendors Security Analyst Intern \u2014 NetGuard Consulting Jan 2021 - Dec 2021 \u2022 Assisted in compliance audits against ISO 27001 controls for client organizations \u2022 Documented security policies and incident response runbooks PROJECTS Vulnerable Web App Audit Performed a full OWASP Top 10 assessment on a deliberately vulnerable web app (DVWA) and documented findings AWS Security Baseline Checklist Created an internal checklist and automated script to audit AWS account configurations against CIS benchmarks EDUCATION B.E, Information Technology \u2014 University of Mumbai 2017 - 2021 CERTIFICATIONS \u2022 Certified Information Systems Security Professional (CISSP) - In Progress \u2022 AWS Certified Security - Specialty.",
+      "narrative": "Meera Iyer is a strong match on Python, demonstrated through: \"Meera Iyer Information Security Engineer Mumbai, India | +91 90123 45678 | meera.iyer.infosec@gmail.com | linkedin.com/in/meera-iyer-sec PROFESSIONAL...\". The primary gap is Docker, FastAPI, Git, PostgreSQL, React."
+    },
+    {
+      "candidate_id": "cand_26",
+      "name": "Tanvi Joshi",
+      "rank": 18,
+      "keyword_score": 0.1667,
+      "semantic_raw": 0.3579,
+      "semantic_norm": 0.5315,
+      "experience_score": 1.2,
+      "final_score": 0.5509,
+      "experience_years": 3.0,
+      "matched_skills": [
+        "React"
+      ],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python"
+      ],
+      "evidence": "Tanvi Joshi Mobile App Developer Pune, India | +91 91111 22233 | tanvi.joshi.app@gmail.com | linkedin.com/in/tanvijoshi-app PROFESSIONAL SUMMARY Mobile App Developer with 3 years building cross-platform apps using Flutter and React Native, focused on smooth UX and performance. SKILLS \u2022 Flutter, Dart \u2022 React Native, JavaScript \u2022 Firebase (Auth, Firestore, FCM) \u2022 REST API integration \u2022 State management (Provider, Redux, Bloc) \u2022 iOS/Android native build pipelines \u2022 Play Store & App Store deployment \u2022 UI/UX implementation from Figma WORK EXPERIENCE Mobile App Developer \u2014 Appwave Studios Sep 2022 - Present \u2022 Built and published a fitness tracking app with 50,000+ downloads on Google Play and App Store \u2022 Reduced app crash rate from 4% to under 0.5% through systematic bug triaging and monitoring (Sentry) \u2022 Implemented push notification system using Firebase Cloud Messaging, increasing user re-engagement by 20% \u2022 Optimized app startup time by 35% through lazy loading and image caching strategies Junior App Developer \u2014 Mobilify Tech Jul 2021 - Aug 2022 \u2022 Developed UI screens for a React Native e-commerce app following Figma design specs pixel-for-pixel \u2022 Integrated payment gateway (Razorpay) and order tracking APIs into the mobile app PROJECTS Habit Tracker App Built a Flutter app with local notifications and streak tracking, published on Google Play Campus Events App React Native app for college event discovery with Firebase backend and RSVP functionality EDUCATION B.E, Computer Engineering \u2014 Pune Institute of Computer Technology 2017 - 2021 CERTIFICATIONS \u2022 Google - Associate Android Developer \u2022 Flutter & Dart - The Complete Guide (Udemy).",
+      "narrative": "Tanvi Joshi is a strong match on React, demonstrated through: \"Tanvi Joshi Mobile App Developer Pune, India | +91 91111 22233 | tanvi.joshi.app@gmail.com | linkedin.com/in/tanvijoshi-app PROFESSIONAL SUMMARY Mobile App...\". The primary gap is Docker, FastAPI, Git, PostgreSQL, Python."
+    },
+    {
+      "candidate_id": "cand_07",
+      "name": "Nikhil Desai",
+      "rank": 19,
+      "keyword_score": 0.3333,
+      "semantic_raw": 0.3196,
+      "semantic_norm": 0.4599,
+      "experience_score": 1.0,
+      "final_score": 0.5506,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Git",
+        "Python"
+      ],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "PostgreSQL",
+        "React"
+      ],
+      "evidence": "NIKHIL DESAI Aspiring Data Scientist +91 98123 45613 | nikhil.desai2024@gmail.com | linkedin.com/in/nikhildesai-dev | github.com/nikhildesai-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Motivated B.Tech Computer Science student with a strong analytical foundation in statistics, machine learning, and data visualization. Experienced in extracting actionable insights from complex datasets.",
+      "narrative": "Nikhil Desai is a strong match on Git, Python, demonstrated through: \"NIKHIL DESAI Aspiring Data Scientist +91 98123 45613 | nikhil.desai2024@gmail.com | linkedin.com/in/nikhildesai-dev | github.com/nikhildesai-dev | Pune,...\". The primary gap is Docker, FastAPI, PostgreSQL, React."
+    },
+    {
+      "candidate_id": "cand_05",
+      "name": "Vikram Nair",
+      "rank": 20,
+      "keyword_score": 0.3583,
+      "semantic_raw": 0.3053,
+      "semantic_norm": 0.4332,
+      "experience_score": 1.0,
+      "final_score": 0.5487,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Git",
+        "Python"
+      ],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "PostgreSQL",
+        "React"
+      ],
+      "evidence": "VIKRAM NAIR Aspiring Cyber Security +91 98123 45607 | vikram.nair2024@gmail.com | linkedin.com/in/vikramnair-dev | github.com/vikramnair-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Motivated B.Tech Computer Science student with a strong interest in network security, ethical hacking, and vulnerability assessment. Hands-on experience with penetration testing tools and secure coding practices.",
+      "narrative": "Vikram Nair is a strong match on Git, Python, demonstrated through: \"VIKRAM NAIR Aspiring Cyber Security +91 98123 45607 | vikram.nair2024@gmail.com | linkedin.com/in/vikramnair-dev | github.com/vikramnair-dev | Pune,...\". The primary gap is Docker, FastAPI, PostgreSQL, React."
+    },
+    {
+      "candidate_id": "cand_54",
+      "name": "Priya Nair",
+      "rank": 21,
+      "keyword_score": 0.025,
+      "semantic_raw": 0.4496,
+      "semantic_norm": 0.7028,
+      "experience_score": 1.0,
+      "final_score": 0.5399,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Priya Nair Web Developer Kochi, India | +91 88990 22334 | priya.nair.web@gmail.com | linkedin.com/in/priyanair-web PROFESSIONAL SUMMARY Web Developer passionate about clean code and great user experiences, with strong skills across frontend frameworks and backend services. SKILLS \u2022 Vue.js, JavaScript, TypeScript \u2022 HTML5, CSS3, SCSS, Bootstrap \u2022 Node.js, PHP, Laravel \u2022 MySQL, Firebase \u2022 Responsive & mobile-first design \u2022 Webpack, Vite \u2022 WordPress customization \u2022 Basic SEO practices WORK EXPERIENCE Web Developer \u2014 Pixel Forge Agency Aug 2021 - Present \u2022 Delivered 20+ client websites ranging from e-commerce stores to corporate landing pages \u2022 Improved Google PageSpeed scores from an average of 55 to 90 across client sites \u2022 Built a custom WordPress theme system reused across 8 client projects, cutting build time by 30% Junior Web Developer \u2014 Coastal Web Solutions Jun 2020 - Jul 2021 \u2022 Maintained and updated 15+ WordPress and Laravel-based client websites \u2022 Fixed cross-browser bugs and improved mobile responsiveness across product pages PROJECTS Local Marketplace Platform Built a Vue.js + Firebase marketplace app for local vendors with real-time order tracking Portfolio Builder A drag-and-drop website builder allowing users to create portfolio sites without coding EDUCATION B.Sc, Computer Science \u2014 Cochin University of Science and Technology 2017 - 2020 CERTIFICATIONS \u2022 Udemy - The Complete Web Developer Bootcamp \u2022 Google - Mobile Web Specialist.",
+      "narrative": "Priya Nair does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_12",
+      "name": "Anjali Bose",
+      "rank": 22,
+      "keyword_score": 0.1667,
+      "semantic_raw": 0.3671,
+      "semantic_norm": 0.5487,
+      "experience_score": 1.0,
+      "final_score": 0.5278,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "React"
+      ],
+      "evidence": "ANJALI BOSE Aspiring IT Support +91 98123 45626 | anjali.bose2024@gmail.com | linkedin.com/in/anjalibose-dev | github.com/anjalibose-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Reliable and technically-minded B.Tech student with hands-on experience troubleshooting hardware, software, and network issues. Strong understanding of system administration fundamentals and customer-facing support.",
+      "narrative": "Anjali Bose is a strong match on Python, demonstrated through: \"ANJALI BOSE Aspiring IT Support +91 98123 45626 | anjali.bose2024@gmail.com | linkedin.com/in/anjalibose-dev | github.com/anjalibose-dev | Pune, Maharashtra...\". The primary gap is Docker, FastAPI, Git, PostgreSQL, React."
+    },
+    {
+      "candidate_id": "cand_25",
+      "name": "Rahul Bose",
+      "rank": 23,
+      "keyword_score": 0.1667,
+      "semantic_raw": 0.3504,
+      "semantic_norm": 0.5175,
+      "experience_score": 1.0,
+      "final_score": 0.5153,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Git"
+      ],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Rahul Bose Android App Developer Kolkata, India | +91 89012 34567 | rahul.bose.android@gmail.com | linkedin.com/in/rahulbose-android PROFESSIONAL SUMMARY Android Developer skilled in Kotlin and Jetpack libraries, building robust apps with clean architecture and strong test coverage. SKILLS \u2022 Kotlin, Java \u2022 Android Jetpack (ViewModel, LiveData, Room) \u2022 MVVM & Clean Architecture \u2022 Retrofit, Coroutines \u2022 SQLite, Room database \u2022 Unit testing (JUnit, Espresso) \u2022 Git, Gradle build systems \u2022 Play Console & app release management WORK EXPERIENCE Android Developer \u2014 Bytecraft Mobile Solutions Mar 2022 - Present \u2022 Maintained and enhanced a banking app with 1M+ active users, ensuring PCI-DSS compliant data handling \u2022 Migrated app architecture from MVP to MVVM, reducing bug reports related to state management by 40% \u2022 Implemented offline-first functionality using Room database, improving app usability in low-connectivity areas \u2022 Wrote unit and UI tests increasing code coverage from 35% to 75% Android Developer Intern \u2014 TechNova Apps Jan 2021 - Feb 2022 \u2022 Built UI components and fixed layout issues across various Android screen sizes \u2022 Assisted senior developers in integrating REST APIs using Retrofit PROJECTS Expense Splitter App Kotlin app for splitting group expenses with Room database for offline storage Weather Forecast App Android app using Retrofit to fetch weather data with clean MVVM architecture EDUCATION B.Tech, Information Technology \u2014 Jadavpur University 2017 - 2021 CERTIFICATIONS \u2022 Google - Android Developer Nanodegree (Udacity) \u2022 Kotlin Bootcamp for Programmers.",
+      "narrative": "Rahul Bose is a strong match on Git, demonstrated through: \"Rahul Bose Android App Developer Kolkata, India | +91 89012 34567 | rahul.bose.android@gmail.com | linkedin.com/in/rahulbose-android PROFESSIONAL SUMMARY...\". The primary gap is Docker, FastAPI, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_32",
+      "name": "Nikhil Rao",
+      "rank": 24,
+      "keyword_score": 0.3333,
+      "semantic_raw": 0.266,
+      "semantic_norm": 0.3598,
+      "experience_score": 1.0,
+      "final_score": 0.5106,
+      "experience_years": 1.0,
+      "matched_skills": [
+        "Docker",
+        "Python"
+      ],
+      "missing_skills": [
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "React"
+      ],
+      "evidence": "Nikhil Rao Data Scientist Hyderabad, India | +91 87123 45690 | nikhil.rao.ds@gmail.com | linkedin.com/in/nikhilrao-ds PROFESSIONAL SUMMARY Data Scientist with a background in applied mathematics, specializing in building end-to-end ML pipelines for finance and risk analytics. SKILLS \u2022 Python, R \u2022 Machine learning (XGBoost, Random Forest, SVM) \u2022 Risk modeling & credit scoring \u2022 SQL, Spark for big data processing \u2022 Model deployment (Flask, Docker) \u2022 Statistical modeling & forecasting \u2022 Data visualization (Seaborn, Plotly) \u2022 MLOps basics (MLflow) WORK EXPERIENCE Data Scientist \u2014 CreditWise Finance Feb 2022 - Present \u2022 Built a credit risk scoring model using XGBoost, improving default prediction accuracy by 12% over the baseline model \u2022 Processed and analyzed transactional datasets exceeding 10M rows using PySpark \u2022 Deployed ML models as REST APIs using Flask and Docker for integration with the loan approval system \u2022 Presented quarterly model performance reviews to senior stakeholders and regulators Data Science Intern \u2014 Quantra Analytics Jan 2021 - Dec 2021 \u2022 Built exploratory data analysis reports identifying key drivers of loan default for the risk team \u2022 Assisted in feature engineering for fraud detection models PROJECTS Fraud Detection System Built an anomaly detection model using Isolation Forest to flag suspicious financial transactions in real time Stock Price Prediction Time-series LSTM model to forecast short-term stock price movement using historical data EDUCATION M.Sc, Data Science \u2014 BITS Pilani 2019 - 2021 B.Sc, Statistics \u2014 Hyderabad Central University 2016 - 2019 CERTIFICATIONS \u2022 Microsoft Certified: Azure Data Scientist Associate \u2022 DataCamp - Machine Learning Scientist Track.",
+      "narrative": "Nikhil Rao is a strong match on Docker, Python, demonstrated through: \"Nikhil Rao Data Scientist Hyderabad, India | +91 87123 45690 | nikhil.rao.ds@gmail.com | linkedin.com/in/nikhilrao-ds PROFESSIONAL SUMMARY Data Scientist...\". The primary gap is FastAPI, Git, PostgreSQL, React."
+    },
+    {
+      "candidate_id": "cand_30",
+      "name": "Vikram Singh",
+      "rank": 25,
+      "keyword_score": 0.1667,
+      "semantic_raw": 0.2554,
+      "semantic_norm": 0.34,
+      "experience_score": 1.2,
+      "final_score": 0.4743,
+      "experience_years": 3.0,
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "React"
+      ],
+      "evidence": "Vikram Singh Cyber Security Analyst Noida, India | +91 95432 10987 | vikram.singh.sec@gmail.com | linkedin.com/in/vikramsingh-sec PROFESSIONAL SUMMARY Cyber Security Analyst with 3 years of experience in threat detection, vulnerability assessment, and incident response for enterprise networks. SKILLS \u2022 SIEM tools (Splunk, QRadar) \u2022 Vulnerability assessment (Nessus, Qualys) \u2022 Penetration testing basics (Burp Suite, Metasploit) \u2022 Network security (firewalls, IDS/IPS) \u2022 Incident response & forensics \u2022 ISO 27001 & NIST frameworks \u2022 Linux/Windows security hardening \u2022 Scripting (Python, Bash) for automation WORK EXPERIENCE Cyber Security Analyst \u2014 SecureNet Systems Apr 2022 - Present \u2022 Monitored SIEM alerts across 500+ endpoints, reducing mean detection time from 4 hours to 45 minutes \u2022 Conducted vulnerability scans on 100+ servers monthly, prioritizing remediation of critical CVEs \u2022 Led incident response for 10+ security incidents, documenting root cause and remediation steps \u2022 Authored internal security awareness training reducing phishing click rate by 35% SOC Analyst (L1) \u2014 CyberShield Pvt Ltd Jun 2021 - Mar 2022 \u2022 Triaged daily security alerts and escalated confirmed incidents to L2/L3 teams \u2022 Maintained firewall and IDS rule sets, reducing false positive alerts by 20% PROJECTS Home Lab SOC Simulation Built a virtual lab with Splunk, Suricata IDS and vulnerable VMs to practice detection engineering Phishing Awareness Toolkit Created simulated phishing campaigns and training materials for employee awareness testing EDUCATION B.Tech, Computer Science \u2014 Amity University 2017 - 2021 CERTIFICATIONS \u2022 CompTIA Security+ \u2022 Certified Ethical Hacker (CEH).",
+      "narrative": "Vikram Singh is a strong match on Python, demonstrated through: \"Vikram Singh Cyber Security Analyst Noida, India | +91 95432 10987 | vikram.singh.sec@gmail.com | linkedin.com/in/vikramsingh-sec PROFESSIONAL SUMMARY Cyber...\". The primary gap is Docker, FastAPI, Git, PostgreSQL, React."
+    },
+    {
+      "candidate_id": "cand_39",
+      "name": "Deepak Yadav",
+      "rank": 26,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.3275,
+      "semantic_norm": 0.4747,
+      "experience_score": 1.2,
+      "final_score": 0.4699,
+      "experience_years": 3.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Deepak Yadav IT Support Specialist Noida, India | +91 97654 32108 | deepak.yadav.it@gmail.com | linkedin.com/in/deepakyadav-it PROFESSIONAL SUMMARY IT Support Specialist with 3 years of experience providing technical assistance, managing IT infrastructure, and resolving hardware/software issues for end users.",
+      "narrative": "Deepak Yadav does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_31",
+      "name": "Divya Pillai",
+      "rank": 27,
+      "keyword_score": 0.1667,
+      "semantic_raw": 0.2443,
+      "semantic_norm": 0.3193,
+      "experience_score": 1.2,
+      "final_score": 0.4661,
+      "experience_years": 3.0,
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "React"
+      ],
+      "evidence": "Divya Pillai Data Scientist Bengaluru, India | +91 90000 11223 | divya.pillai.ds@gmail.com | linkedin.com/in/divyapillai-ds PROFESSIONAL SUMMARY Data Scientist with 3 years of experience translating business problems into predictive models and actionable insights for e-commerce clients. SKILLS \u2022 Python (Pandas, Scikit-learn, NumPy) \u2022 Statistical analysis & hypothesis testing \u2022 Machine learning (regression, classification, clustering) \u2022 SQL & data warehousing (BigQuery, Snowflake) \u2022 Data visualization (Tableau, Power BI, Matplotlib) \u2022 A/B testing & experiment design \u2022 Feature engineering \u2022 Basic deep learning (Keras) WORK EXPERIENCE Data Scientist \u2014 Retail Insights Co Aug 2022 - Present \u2022 Built a customer churn prediction model achieving 87% precision, enabling targeted retention campaigns \u2022 Designed and analyzed A/B tests for pricing strategy changes, informing a decision that increased revenue by 8% \u2022 Created a demand forecasting model reducing inventory holding costs by 15% \u2022 Built interactive Tableau dashboards used weekly by the leadership team for KPI tracking Data Analyst \u2014 MetricWave Analytics Jun 2021 - Jul 2022 \u2022 Cleaned and analyzed datasets of 5M+ transaction records to identify purchasing trends \u2022 Automated weekly reporting using Python scripts, saving 10+ hours of manual work per week PROJECTS Customer Segmentation Analysis Applied K-means clustering on retail purchase data to segment customers into actionable marketing personas Sales Forecasting Model Built a time-series forecasting model (Prophet) to predict monthly sales with 92% accuracy EDUCATION M.Sc, Statistics \u2014 Indian Statistical Institute 2019 - 2021 B.Sc, Mathematics \u2014 Christ University 2016 - 2019 CERTIFICATIONS \u2022 IBM Data Science Professional Certificate \u2022 Google Data Analytics Certificate.",
+      "narrative": "Divya Pillai is a strong match on Python, demonstrated through: \"Divya Pillai Data Scientist Bengaluru, India | +91 90000 11223 | divya.pillai.ds@gmail.com | linkedin.com/in/divyapillai-ds PROFESSIONAL SUMMARY Data...\". The primary gap is Docker, FastAPI, Git, PostgreSQL, React."
+    },
+    {
+      "candidate_id": "cand_09",
+      "name": "Aman Tripathi",
+      "rank": 28,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.3616,
+      "semantic_norm": 0.5384,
+      "experience_score": 1.0,
+      "final_score": 0.4654,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "AMAN TRIPATHI Aspiring Founders Office +91 98123 45623 | aman.tripathi2024@gmail.com | linkedin.com/in/amantripathi-dev | github.com/amantripathi-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Resourceful and entrepreneurial B.Tech student with cross-functional exposure to operations, strategy, and product. Comfortable working in fast-paced, ambiguous environments and driving projects end-to-end.",
+      "narrative": "Aman Tripathi does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_40",
+      "name": "Farhan Ali",
+      "rank": 29,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.3472,
+      "semantic_norm": 0.5115,
+      "experience_score": 1.0,
+      "final_score": 0.4546,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Farhan Ali Technical Support Engineer Lucknow, India | +91 86543 21099 | farhan.ali.it@gmail.com | linkedin.com/in/farhanali-it PROFESSIONAL SUMMARY Technical Support Engineer with strong troubleshooting skills across hardware, software, and networking, committed to delivering fast and reliable IT support. SKILLS \u2022 Desktop & server troubleshooting \u2022 Networking basics (LAN/WAN, VPN, firewalls) \u2022 Microsoft 365 & Google Workspace admin \u2022 Ticketing systems (Freshservice, ServiceNow) \u2022 Printer & peripheral support \u2022 Backup & disaster recovery basics \u2022 Customer service & communication \u2022 Basic cybersecurity hygiene practices WORK EXPERIENCE Technical Support Engineer \u2014 Vantage IT Services Apr 2022 - Present \u2022 Handled 40+ support tickets daily across hardware, software, and network issues with a 4.7/5 customer satisfaction rating \u2022 Set up and maintained VPN access for 80+ remote employees during company-wide remote work transition \u2022 Performed regular system backups and disaster recovery drills, ensuring zero data loss incidents \u2022 Trained 10+ new employees on company IT systems and security best practices IT Helpdesk Associate \u2014 Citywide Networks Feb 2021 - Mar 2022 \u2022 Provided remote and on-site support for 200+ end users across multiple departments \u2022 Maintained inventory and lifecycle tracking for company laptops and peripherals PROJECTS Remote Work IT Setup Guide Created a step-by-step IT setup guide for remote employees, reducing setup-related tickets by 30% EDUCATION B.Sc, Information Technology \u2014 Lucknow University 2018 - 2021 CERTIFICATIONS \u2022 CompTIA Network+ \u2022 Microsoft 365 Certified: Fundamentals.",
+      "narrative": "Farhan Ali does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_10",
+      "name": "Shreya Mehra",
+      "rank": 30,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.346,
+      "semantic_norm": 0.5092,
+      "experience_score": 1.0,
+      "final_score": 0.4537,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "SHREYA MEHRA Aspiring Founders Office +91 98123 45624 | shreya.mehra2024@gmail.com | linkedin.com/in/shreyamehra-dev | github.com/shreyamehra-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Resourceful and entrepreneurial B.Tech student with cross-functional exposure to operations, strategy, and product. Comfortable working in fast-paced, ambiguous environments and driving projects end-to-end.",
+      "narrative": "Shreya Mehra does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_04",
+      "name": "Neha Bhatia",
+      "rank": 31,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.3369,
+      "semantic_norm": 0.4922,
+      "experience_score": 1.0,
+      "final_score": 0.4469,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "NEHA BHATIA Aspiring Content Creation +91 98123 45620 | neha.bhatia2024@gmail.com | linkedin.com/in/nehabhatia-dev | github.com/nehabhatia-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Creative and versatile B.Tech student experienced in writing, scripting, and producing content across blogs, social media, and video formats. Skilled at translating technical and lifestyle topics into engaging content.",
+      "narrative": "Neha Bhatia does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_34",
+      "name": "Ira Sen",
+      "rank": 32,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.2814,
+      "semantic_norm": 0.3886,
+      "experience_score": 1.2,
+      "final_score": 0.4354,
+      "experience_years": 3.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Ira Sen UI/UX Designer Bengaluru, India | +91 91098 76543 | ira.sen.design@gmail.com | linkedin.com/in/irasen-design PROFESSIONAL SUMMARY UI/UX Designer with 3 years of experience crafting intuitive digital experiences for web and mobile products, grounded in user research and iterative design. SKILLS \u2022 Figma, Adobe XD, Sketch \u2022 User research & usability testing \u2022 Wireframing & prototyping \u2022 Design systems & component libraries \u2022 Interaction design & micro-animations \u2022 Accessibility (WCAG) best practices \u2022 Collaboration with engineering teams \u2022 Basic HTML/CSS understanding WORK EXPERIENCE UI/UX Designer \u2014 Northstar Product Studio Jul 2022 - Present \u2022 Redesigned the core onboarding flow for a fintech app, increasing completion rate from 62% to 88% \u2022 Built and maintained a design system used across 4 product teams, improving design consistency and handoff speed \u2022 Conducted 30+ user interviews and usability tests informing key product decisions \u2022 Collaborated closely with engineers to ensure pixel-accurate, accessible implementation of designs Junior UI Designer \u2014 Pixel Theory Design Agency Jun 2020 - Jun 2022 \u2022 Designed UI screens for 10+ client mobile apps across e-commerce and healthcare verticals \u2022 Created interactive prototypes in Figma for client presentations and stakeholder reviews PROJECTS Fintech App Redesign (Case Study) End-to-end UX case study redesigning a personal finance app's dashboard and onboarding, featured on personal portfolio Design System - Atlas UI Built a reusable component library and style guide adopted across 3 internal products EDUCATION B.Des, Communication Design \u2014 National Institute of Design (NID) 2016 - 2020 CERTIFICATIONS \u2022 Google UX Design Professional Certificate \u2022 Interaction Design Foundation - UX Certification.",
+      "narrative": "Ira Sen does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_52",
+      "name": "Pooja Malhotra",
+      "rank": 33,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.3173,
+      "semantic_norm": 0.4556,
+      "experience_score": 1.0,
+      "final_score": 0.4322,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Pooja Malhotra Video Editor & Motion Designer Chandigarh, India | +91 91234 56723 | pooja.malhotra.edit@gmail.com | linkedin.com/in/poojamalhotra-edit PROFESSIONAL SUMMARY Creative video editor with a strong eye for motion design, specializing in short-form social content and animated explainer videos. SKILLS \u2022 Adobe Premiere Pro, After Effects, Audition \u2022 2D motion graphics & kinetic typography \u2022 CapCut & InShot for mobile editing \u2022 Explainer & whiteboard animation \u2022 Audio syncing & podcast video editing \u2022 Thumbnail design (Photoshop) \u2022 Content batching & workflow optimization WORK EXPERIENCE Video Editor \u2014 Studio Vivid Creative Agency Jun 2022 - Present \u2022 Produced 200+ short-form videos for client social channels, achieving an average of 15% engagement rate \u2022 Created animated explainer videos for SaaS clients, improving landing page conversion by 18% \u2022 Designed eye-catching thumbnails that increased average click-through rate by 25% \u2022 Managed end-to-end podcast video editing for a weekly show with 30+ episodes produced Freelance Video Editor \u2014 Self-Employed Jan 2021 - May 2022 \u2022 Delivered 40+ freelance projects for small businesses and content creators via Fiverr and Upwork \u2022 Built a personal style template library used to speed up recurring client work PROJECTS Animated Explainer Series Created a 5-part animated explainer series for a fintech startup explaining product features Podcast Highlight Clips Edited weekly highlight clips from long-form podcast episodes optimized for Instagram Reels EDUCATION B.A, Visual Communication \u2014 Panjab University 2018 - 2021 CERTIFICATIONS \u2022 Adobe After Effects - Motion Graphics Certificate \u2022 Skillshare - Mobile Video Editing Mastery.",
+      "narrative": "Pooja Malhotra does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_18",
+      "name": "Riya Singh",
+      "rank": 34,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.299,
+      "semantic_norm": 0.4214,
+      "experience_score": 1.0,
+      "final_score": 0.4186,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "RIYA SINGH Aspiring Sales +91 98123 45622 | riya.singh2024@gmail.com | linkedin.com/in/riyasingh-dev | github.com/riyasingh-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Driven and personable B.Tech student with strong communication and relationship-building skills. Experienced in lead generation, client outreach, and closing conversations through a consultative approach.",
+      "narrative": "Riya Singh does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_20",
+      "name": "Tanya Chauhan",
+      "rank": 35,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.2903,
+      "semantic_norm": 0.4052,
+      "experience_score": 1.0,
+      "final_score": 0.4121,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "TANYA CHAUHAN Aspiring Social Media Intern +91 98123 45616 | tanya.chauhan2024@gmail.com | linkedin.com/in/tanyachauhan-dev | github.com/tanyachauhan-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Creative and detail-oriented B.Tech student with a passion for social media strategy, content planning, and audience engagement. Experienced in growing online communities and analysing engagement metrics.",
+      "narrative": "Tanya Chauhan does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_22",
+      "name": "Pooja Agarwal",
+      "rank": 36,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.2844,
+      "semantic_norm": 0.3942,
+      "experience_score": 1.0,
+      "final_score": 0.4077,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "POOJA AGARWAL Aspiring Video Editing +91 98123 45618 | pooja.agarwal2024@gmail.com | linkedin.com/in/poojaagarwal-dev | github.com/poojaagarwal-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Creative B.Tech student with strong video editing skills and an eye for storytelling, pacing, and visual aesthetics. Experienced in producing short-form and long-form content for social and marketing use.",
+      "narrative": "Pooja Agarwal does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_19",
+      "name": "Arjun Bhatt",
+      "rank": 37,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.2831,
+      "semantic_norm": 0.3917,
+      "experience_score": 1.0,
+      "final_score": 0.4067,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "ARJUN BHATT Aspiring Social Media Intern +91 98123 45615 | arjun.bhatt2024@gmail.com | linkedin.com/in/arjunbhatt-dev | github.com/arjunbhatt-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Creative and detail-oriented B.Tech student with a passion for social media strategy, content planning, and audience engagement. Experienced in growing online communities and analysing engagement metrics.",
+      "narrative": "Arjun Bhatt does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_03",
+      "name": "Varun Kapoor",
+      "rank": 38,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.2826,
+      "semantic_norm": 0.3908,
+      "experience_score": 1.0,
+      "final_score": 0.4063,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "VARUN KAPOOR Aspiring Content Creation +91 98123 45619 | varun.kapoor2024@gmail.com | linkedin.com/in/varunkapoor-dev | github.com/varunkapoor-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Creative and versatile B.Tech student experienced in writing, scripting, and producing content across blogs, social media, and video formats. Skilled at translating technical and lifestyle topics into engaging content.",
+      "narrative": "Varun Kapoor does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_35",
+      "name": "Aarushi Sharma",
+      "rank": 39,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.2781,
+      "semantic_norm": 0.3824,
+      "experience_score": 1.0,
+      "final_score": 0.403,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Aarushi Sharma Founder's Office Intern Gurugram, India | +91 88345 67120 | aarushi.sharma.fo@gmail.com | linkedin.com/in/aarushisharma-fo PROFESSIONAL SUMMARY Highly motivated business graduate experienced in supporting leadership with research, operations, and special projects in fast-paced startup environments. SKILLS \u2022 Business research & analysis \u2022 Presentation design (PowerPoint, Canva) \u2022 Basic financial analysis \u2022 Project coordination \u2022 Vendor & partnership outreach \u2022 Process documentation \u2022 Time management & prioritization \u2022 MS Excel (pivot tables, VLOOKUP) WORK EXPERIENCE Founder's Office Intern \u2014 Nimbus Health (Healthtech Startup) Jan 2024 - Jun 2024 \u2022 Supported the founder in preparing board meeting decks and quarterly business reviews \u2022 Conducted competitive landscape analysis across 8 healthtech competitors, informing product roadmap decisions \u2022 Coordinated with 5 external vendors to streamline procurement processes, saving 12% on operational costs \u2022 Documented internal SOPs for 3 core business processes, improving onboarding for new hires Business Development Intern \u2014 Sprout Consulting Jun 2023 - Dec 2023 \u2022 Assisted in client research and proposal preparation for 10+ prospective business engagements PROJECTS Startup Case Study Competition Led a team to the finals of a national business case competition, presenting a growth strategy for a D2C brand EDUCATION BBA, Business Analytics \u2014 Symbiosis Centre for Management Studies 2021 - 2024 CERTIFICATIONS \u2022 McKinsey Forward Program Certificate \u2022 Excel Skills for Business Specialization (Coursera).",
+      "narrative": "Aarushi Sharma does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_37",
+      "name": "Kavya Menon",
+      "rank": 40,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.2279,
+      "semantic_norm": 0.2886,
+      "experience_score": 1.2,
+      "final_score": 0.3954,
+      "experience_years": 4.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Kavya Menon HR Executive Bengaluru, India | +91 95678 90123 | kavya.menon.hr@gmail.com | linkedin.com/in/kavyamenon-hr PROFESSIONAL SUMMARY HR Executive with 4 years of experience managing end-to-end recruitment, employee engagement, and HR operations for mid-sized technology companies. SKILLS \u2022 End-to-end recruitment & sourcing \u2022 HRIS systems (Darwinbox, BambooHR) \u2022 Onboarding & offboarding processes \u2022 Employee engagement programs \u2022 Performance management cycles \u2022 HR policy drafting & compliance \u2022 Payroll coordination \u2022 Conflict resolution & employee relations WORK EXPERIENCE HR Executive \u2014 Trellis Software Pvt Ltd Jul 2022 - Present \u2022 Managed full recruitment cycle for 60+ tech and non-tech roles annually, reducing average time-to-hire from 35 to 22 days \u2022 Designed and rolled out an employee engagement program that improved engagement survey scores by 18% \u2022 Streamlined onboarding process, reducing new hire ramp-up time by 25% \u2022 Maintained HR compliance documentation, ensuring zero compliance violations during 2 annual audits HR Associate \u2014 Brightstone Consulting Jun 2020 - Jun 2022 \u2022 Coordinated interview scheduling and candidate communication for an average of 15 open roles at a time \u2022 Assisted in payroll processing and benefits administration for 150+ employees PROJECTS Employee Wellness Initiative Designed and launched a quarterly wellness program leading to a 12% reduction in reported employee stress levels EDUCATION MBA, Human Resource Management \u2014 Christ University 2018 - 2020 B.Com \u2014 Bengaluru University 2015 - 2018 CERTIFICATIONS \u2022 SHRM Certified Professional (SHRM-CP) \u2022 HR Analytics Certification (HRCI).",
+      "narrative": "Kavya Menon does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_17",
+      "name": "Sahil Khanna",
+      "rank": 41,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.2665,
+      "semantic_norm": 0.3607,
+      "experience_score": 1.0,
+      "final_score": 0.3943,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "SAHIL KHANNA Aspiring Sales +91 98123 45621 | sahil.khanna2024@gmail.com | linkedin.com/in/sahilkhanna-dev | github.com/sahilkhanna-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Driven and personable B.Tech student with strong communication and relationship-building skills. Experienced in lead generation, client outreach, and closing conversations through a consultative approach.",
+      "narrative": "Sahil Khanna does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_50",
+      "name": "Yash Agarwal",
+      "rank": 42,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.2654,
+      "semantic_norm": 0.3587,
+      "experience_score": 1.0,
+      "final_score": 0.3935,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Yash Agarwal Social Media Marketing Intern Jaipur, India | +91 88123 90456 | yash.agarwal.smm@gmail.com | linkedin.com/in/yashagarwal-smm PROFESSIONAL SUMMARY Marketing student with hands-on experience growing brand pages organically, looking to contribute fresh content ideas as a Social Media Marketing Intern. SKILLS \u2022 Content ideation & scripting \u2022 Reels & short-form video editing \u2022 Instagram & YouTube Shorts strategy \u2022 Basic SEO for social captions \u2022 Canva, Adobe Express \u2022 Influencer outreach basics \u2022 Engagement tracking & reporting \u2022 Trend monitoring WORK EXPERIENCE Social Media Marketing Intern \u2014 UrbanBite Foods Feb 2024 - May 2024 \u2022 Scripted and edited 30+ short-form reels, with 5 videos crossing 100K+ views organically \u2022 Conducted competitor analysis to identify content gaps, leading to a new weekly content series \u2022 Assisted in coordinating with 3 micro-influencers for product collaboration posts \u2022 Compiled monthly performance reports tracking reach, engagement, and follower growth Content Volunteer \u2014 NGO Green Tomorrow Jun 2023 - Jan 2024 \u2022 Created awareness content for environmental campaigns, helping increase page engagement by 30% PROJECTS YouTube Shorts Challenge Self-initiated 60-day content challenge posting daily shorts, growing a channel from 0 to 2,000 subscribers Brand Audit Report Conducted a social media audit for a local caf\u00e9 and presented a content strategy proposal EDUCATION BBA, Marketing (Pursuing) \u2014 University of Rajasthan 2022 - 2025 CERTIFICATIONS \u2022 Google Digital Garage - Fundamentals of Digital Marketing \u2022 Canva Design School - Social Media Certificate.",
+      "narrative": "Yash Agarwal does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_28",
+      "name": "Riya Bansal",
+      "rank": 43,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.2509,
+      "semantic_norm": 0.3316,
+      "experience_score": 1.0,
+      "final_score": 0.3826,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Riya Bansal Content Creator Lucknow, India | +91 90876 54321 | riya.bansal.content@gmail.com | linkedin.com/in/riyabansal-content PROFESSIONAL SUMMARY Versatile Content Creator experienced in writing, video scripting, and visual storytelling across blogs, social media, and brand campaigns.",
+      "narrative": "Riya Bansal does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_51",
+      "name": "Manav Chopra",
+      "rank": 44,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.2078,
+      "semantic_norm": 0.2511,
+      "experience_score": 1.2,
+      "final_score": 0.3804,
+      "experience_years": 3.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Manav Chopra Video Editor Mumbai, India | +91 92345 67812 | manav.chopra.edit@gmail.com | linkedin.com/in/manavchopra-edit PROFESSIONAL SUMMARY Video Editor with 3 years of experience producing engaging content for YouTube, social media, and corporate clients, skilled in storytelling through pacing and sound design. SKILLS \u2022 Adobe Premiere Pro, After Effects \u2022 DaVinci Resolve color grading \u2022 Motion graphics & lower thirds \u2022 Sound design & audio mixing \u2022 Short-form content (Reels, Shorts) \u2022 Multi-camera editing \u2022 Storyboarding & rough cuts \u2022 File management & format optimization WORK EXPERIENCE Video Editor \u2014 Frameworks Media Productions May 2022 - Present \u2022 Edited 150+ YouTube videos for clients across tech and lifestyle niches, with average watch time above 60% \u2022 Produced short-form content repurposed from long-form videos, increasing client's Instagram views by 3x \u2022 Designed custom motion graphics templates, reducing editing turnaround time by 20% \u2022 Color graded footage for a documentary short that screened at a regional film festival Junior Video Editor \u2014 Clickframe Studios Mar 2021 - Apr 2022 \u2022 Assisted senior editors with rough cuts and footage organization for ad campaigns \u2022 Edited wedding and event highlight reels for 25+ clients PROJECTS Travel Vlog Series Edited a 10-episode travel vlog series with custom transitions and color grading, gaining 500K+ combined views Brand Promo Reel Created a 60-second promotional reel for a local business that was used across their social media channels EDUCATION Diploma in Film & Video Production \u2014 Whistling Woods International 2019 - 2021 CERTIFICATIONS \u2022 Adobe Certified Professional - Premiere Pro \u2022 DaVinci Resolve Color Grading Certificate.",
+      "narrative": "Manav Chopra does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_27",
+      "name": "Kabir Malik",
+      "rank": 45,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.2408,
+      "semantic_norm": 0.3127,
+      "experience_score": 1.0,
+      "final_score": 0.3751,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Kabir Malik Content Creator & Copywriter Indore, India | +91 89765 43210 | kabir.malik.content@gmail.com | linkedin.com/in/kabirmalik-content PROFESSIONAL SUMMARY Content creator blending sharp copywriting with engaging visual storytelling, focused on building brand presence through consistent, value-driven content.",
+      "narrative": "Kabir Malik does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_45",
+      "name": "Aman Tiwari",
+      "rank": 46,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.1952,
+      "semantic_norm": 0.2275,
+      "experience_score": 1.2,
+      "final_score": 0.371,
+      "experience_years": 4.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Aman Tiwari Sales Executive Lucknow, India | +91 90345 67891 | aman.tiwari.sales@gmail.com | linkedin.com/in/amantiwari-sales PROFESSIONAL SUMMARY Results-driven Sales Executive with 4 years of experience in B2B sales, consistently exceeding quarterly targets through strong relationship management. SKILLS \u2022 B2B & B2C sales cycles \u2022 CRM tools (Salesforce, HubSpot) \u2022 Lead generation & cold outreach \u2022 Negotiation & closing techniques \u2022 Sales pipeline management \u2022 Client relationship management \u2022 Sales presentations & proposals \u2022 Market & competitor research WORK EXPERIENCE Sales Executive \u2014 Veltrix Business Solutions Jun 2022 - Present \u2022 Consistently exceeded quarterly sales targets by an average of 22%, generating \u20b91.8 Cr in new business annually \u2022 Managed a pipeline of 80+ active accounts using Salesforce CRM, improving lead-to-close conversion by 15% \u2022 Built relationships with 30+ enterprise clients, achieving a 90% client retention rate \u2022 Trained 4 new sales associates on pitch delivery and objection handling Inside Sales Representative \u2014 Marquee Software Pvt Ltd May 2020 - May 2022 \u2022 Conducted 50+ cold calls daily, converting leads into qualified sales appointments \u2022 Achieved 'Top Performer' recognition for 3 consecutive quarters based on conversion metrics PROJECTS Regional Sales Expansion Plan Researched and proposed a market entry strategy for an underserved region, adopted by management for Q3 rollout EDUCATION BBA, Marketing \u2014 Lucknow University 2016 - 2019 CERTIFICATIONS \u2022 HubSpot Sales Software Certification \u2022 Salesforce Certified Sales Cloud Consultant (Associate).",
+      "narrative": "Aman Tiwari does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_49",
+      "name": "Sara Khan",
+      "rank": 47,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.2254,
+      "semantic_norm": 0.284,
+      "experience_score": 1.0,
+      "final_score": 0.3636,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Sara Khan Social Media Intern Delhi, India | +91 99001 22334 | sara.khan.smm@gmail.com | linkedin.com/in/sarakhan-smm PROFESSIONAL SUMMARY Enthusiastic and creative student passionate about social media trends, seeking to apply content planning and community management skills as a Social Media Intern. SKILLS \u2022 Content calendar planning \u2022 Instagram, Facebook & LinkedIn management \u2022 Canva, CapCut for content creation \u2022 Basic copywriting & captions \u2022 Hashtag & trend research \u2022 Social media analytics (Meta Business Suite) \u2022 Community engagement & comment management \u2022 Basic paid ad boosting WORK EXPERIENCE Social Media Intern \u2014 Glow & Co.",
+      "narrative": "Sara Khan does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_36",
+      "name": "Siddharth Rao",
+      "rank": 48,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.2082,
+      "semantic_norm": 0.2518,
+      "experience_score": 1.0,
+      "final_score": 0.3507,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Siddharth Rao Founder's Office Associate Bengaluru, India | +91 99765 43201 | siddharth.rao.fo@gmail.com | linkedin.com/in/siddharthrao-fo PROFESSIONAL SUMMARY Strategic and execution-focused professional supporting founders on cross-functional priorities including operations, fundraising research, and growth initiatives at an early-stage startup. SKILLS \u2022 Strategic planning & execution \u2022 Market & competitor research \u2022 Financial modeling (Excel, Google Sheets) \u2022 Cross-functional project management \u2022 Investor deck preparation \u2022 Process & operations optimization \u2022 Data-driven decision making \u2022 Stakeholder communication WORK EXPERIENCE Founder's Office Associate \u2014 Quantum Loop (Early-stage Startup) Aug 2022 - Present \u2022 Built financial models and investor pitch decks that supported a successful $1.5M seed funding round \u2022 Led a cross-functional project streamlining the onboarding process, reducing customer activation time by 30% \u2022 Conducted market research across 5 verticals to identify new growth opportunities, 2 of which were greenlit \u2022 Managed founder's calendar, key OKRs, and weekly leadership review decks Business Analyst Intern \u2014 Catalyst Ventures Jan 2022 - Jul 2022 \u2022 Researched and analyzed 40+ potential investment targets for the venture team \u2022 Prepared due-diligence summaries used in investment committee discussions PROJECTS Go-to-Market Strategy Document Authored a GTM strategy for a new product line, including pricing, positioning, and launch plan Operational Dashboard Built a Google Sheets-based KPI dashboard tracking key startup metrics for weekly founder reviews EDUCATION MBA, Strategy \u2014 Indian Institute of Management (IIM) Indore 2020 - 2022 B.Tech, Mechanical Engineering \u2014 NIT Trichy 2015 - 2019 CERTIFICATIONS \u2022 Wharton Online - Business Strategy Specialization \u2022 Y Combinator Startup School Certificate.",
+      "narrative": "Siddharth Rao does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_41",
+      "name": "Harsh Vardhan",
+      "rank": 49,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.2076,
+      "semantic_norm": 0.2507,
+      "experience_score": 1.0,
+      "final_score": 0.3503,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Harsh Vardhan Digital Marketing Specialist Ahmedabad, India | +91 92109 87654 | harsh.vardhan.mkt@gmail.com | linkedin.com/in/harshvardhan-mkt PROFESSIONAL SUMMARY Digital Marketing Specialist with hands-on expertise in performance marketing and SEO, focused on driving measurable growth for D2C and SaaS brands.",
+      "narrative": "Harsh Vardhan does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_21",
+      "name": "Rahul Saxena",
+      "rank": 50,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.2052,
+      "semantic_norm": 0.2462,
+      "experience_score": 1.0,
+      "final_score": 0.3485,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "RAHUL SAXENA Aspiring Video Editing +91 98123 45617 | rahul.saxena2024@gmail.com | linkedin.com/in/rahulsaxena-dev | github.com/rahulsaxena-dev | Pune, Maharashtra PROFESSIONAL SUMMARY Creative B.Tech student with strong video editing skills and an eye for storytelling, pacing, and visual aesthetics. Experienced in producing short-form and long-form content for social and marketing use.",
+      "narrative": "Rahul Saxena does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_33",
+      "name": "Devansh Kothari",
+      "rank": 51,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.1982,
+      "semantic_norm": 0.2331,
+      "experience_score": 1.0,
+      "final_score": 0.3432,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Devansh Kothari Graphic & Brand Designer Jaipur, India | +91 90123 87654 | devansh.kothari.design@gmail.com | linkedin.com/in/devanshkothari-design PROFESSIONAL SUMMARY Graphic Designer with a strong portfolio in brand identity and digital design, skilled in translating brand stories into compelling visuals across print and digital media. SKILLS \u2022 Adobe Photoshop, Illustrator, InDesign \u2022 Brand identity & logo design \u2022 Print & packaging design \u2022 Social media creative design \u2022 Typography & layout design \u2022 Basic motion graphics (After Effects) \u2022 Brand guideline documentation \u2022 Client presentation & feedback handling WORK EXPERIENCE Graphic Designer \u2014 Inkwell Creative Agency Aug 2021 - Present \u2022 Designed complete brand identities (logo, color palette, typography) for 12+ client businesses \u2022 Created packaging designs for 5 D2C product lines, contributing to a 15% increase in shelf appeal-driven sales \u2022 Produced 300+ social media creatives across client accounts maintaining consistent brand guidelines \u2022 Led design for a rebranding project that resulted in a 30% increase in brand recall in post-launch surveys Design Intern \u2014 Studio Canvas Jan 2021 - Jul 2021 \u2022 Assisted senior designers with print collateral and digital ad creatives for local businesses PROJECTS Caf\u00e9 Rebrand Project Led a full visual rebrand for a local caf\u00e9 chain including logo, menu design, and signage Personal Illustration Series Created a self-published illustration series exploring Indian folklore, shared across design communities EDUCATION B.Des, Visual Communication \u2014 MIT Institute of Design, Pune 2017 - 2021 CERTIFICATIONS \u2022 Adobe Certified Professional - Visual Design \u2022 Canva Design School - Brand Identity Certificate.",
+      "narrative": "Devansh Kothari does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_42",
+      "name": "Tanya Kapoor",
+      "rank": 52,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.0764,
+      "semantic_norm": 0.0056,
+      "experience_score": 1.2,
+      "final_score": 0.2822,
+      "experience_years": 3.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Tanya Kapoor Marketing Executive Mumbai, India | +91 93210 98765 | tanya.kapoor.mkt@gmail.com | linkedin.com/in/tanyakapoor-mkt PROFESSIONAL SUMMARY Marketing Executive with 3 years of experience driving brand growth through integrated digital and offline campaigns for consumer products.",
+      "narrative": "Tanya Kapoor does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_38",
+      "name": "Rajesh Pillai",
+      "rank": 53,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.0958,
+      "semantic_norm": 0.0418,
+      "experience_score": 1.0,
+      "final_score": 0.2667,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Rajesh Pillai HR Generalist Chennai, India | +91 94567 81203 | rajesh.pillai.hr@gmail.com | linkedin.com/in/rajeshpillai-hr PROFESSIONAL SUMMARY HR Generalist with experience across recruitment, employee relations, and HR operations, passionate about building positive workplace cultures. SKILLS \u2022 Talent acquisition & screening \u2022 Employee relations & grievance handling \u2022 HR policy implementation \u2022 Exit interviews & attrition analysis \u2022 Compensation & benefits coordination \u2022 Training & development coordination \u2022 MS Excel for HR reporting \u2022 Labour law compliance basics WORK EXPERIENCE HR Generalist \u2014 Meridian Manufacturing Ltd May 2021 - Present \u2022 Reduced employee attrition rate from 22% to 14% annually through improved engagement and exit interview analysis \u2022 Managed grievance redressal processes, resolving 90%+ of cases within 7 working days \u2022 Coordinated quarterly training programs for 100+ employees across technical and soft-skills tracks \u2022 Ensured compliance with labour law requirements across statutory filings and audits HR Intern \u2014 Coastal Industries Jan 2020 - Apr 2021 \u2022 Supported recruitment drives for entry-level manufacturing roles, screening 200+ applications PROJECTS Attrition Analysis Report Conducted a data-driven analysis of attrition trends, presenting recommendations adopted by senior management EDUCATION MBA, Human Resources \u2014 Loyola Institute of Business Administration 2018 - 2020 CERTIFICATIONS \u2022 HRCI - Associate Professional in Human Resources (aPHR) \u2022 Coursera - Managing Employee Performance.",
+      "narrative": "Rajesh Pillai does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    },
+    {
+      "candidate_id": "cand_46",
+      "name": "Neha Choudhary",
+      "rank": 54,
+      "keyword_score": 0.0,
+      "semantic_raw": 0.0734,
+      "semantic_norm": 0.0,
+      "experience_score": 1.0,
+      "final_score": 0.25,
+      "experience_years": 1.0,
+      "matched_skills": [],
+      "missing_skills": [
+        "Docker",
+        "FastAPI",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "evidence": "Neha Choudhary Sales Associate Jaipur, India | +91 88456 12390 | neha.choudhary.sales@gmail.com | linkedin.com/in/nehachoudhary-sales PROFESSIONAL SUMMARY Customer-focused Sales Associate with strong communication skills and a track record of building long-term client relationships in retail and SaaS sales. SKILLS \u2022 Retail & SaaS sales \u2022 Customer needs assessment \u2022 Upselling & cross-selling techniques \u2022 CRM data entry & reporting (Zoho) \u2022 Objection handling \u2022 Product demonstrations \u2022 Target achievement under pressure \u2022 Team collaboration WORK EXPERIENCE Sales Associate \u2014 Brightway Retail Pvt Ltd Jul 2022 - Present \u2022 Achieved 115% of monthly sales targets on average over a 12-month period \u2022 Improved customer upsell rate by 18% through tailored product recommendations \u2022 Maintained accurate CRM records for 200+ active customer accounts \u2022 Resolved customer complaints effectively, maintaining a 95% satisfaction score Sales Trainee \u2014 Coral Retail Group Aug 2021 - Jun 2022 \u2022 Assisted senior sales staff with product demonstrations and inventory management \u2022 Learned and applied consultative selling techniques to first-time customers PROJECTS Customer Retention Initiative Proposed and helped implement a follow-up call system for repeat customers, reducing churn by 10% EDUCATION B.Com, Business Administration \u2014 University of Rajasthan 2018 - 2021 CERTIFICATIONS \u2022 Coursera - Sales Training: Building Your Sales Career \u2022 Zoho CRM Certified User.",
+      "narrative": "Neha Choudhary does not match any primary required skills. The primary gap is Docker, FastAPI, Git, PostgreSQL, Python, React."
+    }
+  ]
+}
