@@ -1,0 +1,89 @@
+@import 'tailwindcss';
+@source "../lib";
+@source "../routes";
+
+@theme {
+	--radius-sm: 0px;
+	--radius-md: 0px;
+	--radius-lg: 0px;
+	--radius-xl: 0px;
+	--color-background: var(--background);
+	--color-foreground: var(--foreground);
+	--color-card: var(--card);
+	--color-card-foreground: var(--card-foreground);
+	--color-popover: var(--popover);
+	--color-popover-foreground: var(--popover-foreground);
+	--color-primary: var(--primary);
+	--color-primary-foreground: var(--primary-foreground);
+	--color-secondary: var(--secondary);
+	--color-secondary-foreground: var(--secondary-foreground);
+	--color-muted: var(--muted);
+	--color-muted-foreground: var(--muted-foreground);
+	--color-accent: var(--accent);
+	--color-accent-foreground: var(--accent-foreground);
+	--color-destructive: var(--destructive);
+	--color-destructive-foreground: var(--destructive-foreground);
+	--color-border: var(--border);
+	--color-input: var(--input);
+	--color-ring: var(--ring);
+}
+
+:root {
+	--background: #fafafa;
+	--foreground: #09090b;
+	--card: #ffffff;
+	--card-foreground: #09090b;
+	--popover: #ffffff;
+	--popover-foreground: #09090b;
+	--primary: #18181b;
+	--primary-foreground: #fafafa;
+	--secondary: #f4f4f5;
+	--secondary-foreground: #18181b;
+	--muted: #f4f4f5;
+	--muted-foreground: #71717a;
+	--accent: #f4f4f5;
+	--accent-foreground: #18181b;
+	--destructive: #ef4444;
+	--destructive-foreground: #fafafa;
+	--border: #e4e4e7;
+	--input: #e4e4e7;
+	--ring: #18181b;
+	--radius: 0rem;
+}
+
+@layer base {
+	* {
+		box-shadow: none !important;
+		border-radius: 0 !important;
+	}
+
+	body {
+		background-color: var(--background);
+		color: var(--foreground);
+		font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+		overflow: hidden;
+		height: 100vh;
+		width: 100vw;
+	}
+
+	.tabular-nums {
+		font-variant-numeric: tabular-nums;
+	}
+}
+
+/* Minimal hairline scrollbar */
+::-webkit-scrollbar {
+	width: 6px;
+	height: 6px;
+}
+::-webkit-scrollbar-track {
+	background: transparent;
+}
+::-webkit-scrollbar-thumb {
+	background: var(--border);
+}
+::-webkit-scrollbar-thumb:hover {
+	background: #a1a1aa;
+}
